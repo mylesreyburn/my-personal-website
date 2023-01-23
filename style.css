@@ -54,7 +54,59 @@ body #websiteText #menacing{
                  -1px -1px 0 #000;
 }
 
-body #websiteText #tarotButton{
+body #tarotButton{
     font-size: 100px;
     background-color: khaki;
+}
+
+#magician{
+    display: none;
+}
+
+#lovers{
+    display: none;
+}
+
+#chariot{
+    display: none;
+}
+
+#hermit{
+    display: none;
+}
+
+#wheel{
+    display: none;
+}
+
+#strength{
+    display: none;
+}
+
+#hanged{
+    display: none;
+}
+
+#death{
+    display: none;
+}
+
+#tower{
+    display: none;
+}
+
+#judgement{
+    display: none;
+}
+
+#world{
+    display: none;
+}
+
+#fool{
+    display: none;
+}
+
+#miku{
+    display: none;
 }
