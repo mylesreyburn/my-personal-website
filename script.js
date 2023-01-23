@@ -1,9 +1,9 @@
-function addingEventListener() {
-    const input = document.getElementById('button');
-}
+const element = document.getElementById("tarotButton");
+element.addEventListener("click", myFunction);
 
-function clickAlert() {
-    alert('I was clicked!');
-}
+const magician = document.getElementById("magician");
 
-input.addEventListener('click', clickAlert());
+
+function buttonActivate() {
+  document.getElementById("menacing") = "Hello World";
+}
