@@ -1,8 +1,32 @@
 body {
-    background: lightgreen;
+    background-color: #6A786C;
+    background-image: url("./images/background.jpg");
+    background-blend-mode: multiply;
 }
 
+
+
 body h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    font-size: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 200px;
+    color: lightgreen;
+    text-shadow: -2px 2px 0 #000,
+                 2px 2px 0 #000,
+                 2px -2px 0 #000,
+                 -2px -2px 0 #000;
+    border-color: black;
+}
+
+body #tagline{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: lightgreen;
+    text-shadow: -1px 1px 0 #000,
+                 1px 1px 0 #000,
+                 1px -1px 0 #000,
+                 -1px -1px 0 #000;
 }
